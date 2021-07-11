@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/whl83111/grpc-exercise-frontend
+[submodule "backend"]
+	path = backend
+	url = https://github.com/whl83111/grpc-exercise-backend
